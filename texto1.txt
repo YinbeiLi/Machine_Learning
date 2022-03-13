@@ -1,0 +1,2 @@
+primer cambio txt
+segundo cambio desde git bash
